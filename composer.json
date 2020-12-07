@@ -1,0 +1,12 @@
+{
+    "name": "sm-date/comp",
+    "type": "php-script",
+    "description": "checks if dates match and returns current date ",
+    "authors": [
+        {
+            "name": "Yatsuk Konstantin",
+            "email": "yatsukkonstantin@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
